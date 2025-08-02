@@ -4,6 +4,8 @@ This repository contains the VICE binaries for various platforms. VICE is a vers
 
 The binaries were taken from the official VICE website [releases/binaries](https://sourceforge.net/projects/vice-emu/files/releases/binaries/) and are provided here to facilitate easy access within GitHub CI workflows.
 
+The version of the binaries in this repository is `3.9.0`.
+
 This repository only provides the binaries for the following platforms:
 
 - Windows x64 (GTK)
